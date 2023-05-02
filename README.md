@@ -1,3 +1,12 @@
+## IMBD Review Using Deep Learning
+
+1. EDA
+2. Visuvalizing text by - WordCloud
+3. NLP
+4. Building Logistic Regression model and Naive Bayes Classification
+5. Building CNN Model usinng Tensor Flow, Keras.
+6. Finally, Reviewing IMBD Movie Review.
+
 ## Sales Insights Data Analysis Project
 
 ### Instructions to setup mysql on your local computer
